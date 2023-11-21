@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.detail-info-bg-con {
+  background-color: brown;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.team-matches-container {
+  width: 90%;
+  margin-top: 40px;
+}
+.recent-matches-con {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.RCB {
+  background-color: linear-gradient(to top #1e293b, red);
+}
+.KKR {
+  background-color: linear-gradient(to top #1e293b, #5755a7);
+}
+.KXP {
+  background-color: linear-gradient(to top #1e293b, #d91c1f);
+}
+.CSK {
+  background-color: linear-gradient(to top #1e293b, yellow);
+}
+.RR {
+  background-color: linear-gradient(to top #1e293b, #da237b);
+}
+.MI {
+  background-color: linear-gradient(to top #1e293b, blue);
+}
+.SRH {
+  background-color: linear-gradient(to top #1e293b, orange);
+}

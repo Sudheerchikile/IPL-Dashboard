@@ -1,0 +1,32 @@
+/* Write your CSS here */
+* {
+  color: white;
+}
+.bg-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+}
+.logo-section {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.ipl-logo {
+  height: 92px;
+}
+.heading {
+  font-weight: 900;
+  font-size: 48px;
+}
+.all-teams-list {
+  width: 95%;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  display: flex;
+}

@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.card {
+  background-color: #0f172a;
+  color: white;
+  padding: 15px;
+  border-radius: 12px;
+  list-style-type: none;
+  width: 25vw;
+  text-align: center;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+.competing-team-logo {
+  height: 120px;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}

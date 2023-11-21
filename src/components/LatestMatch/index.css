@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.latest-match {
+  width: 96%;
+  padding: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+}

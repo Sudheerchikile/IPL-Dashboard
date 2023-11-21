@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-card {
+  display: flex;
+  align-items: center;
+  border: 1px solid cadetblue;
+  padding: 15px;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 35vw;
+  text-decoration: none;
+  border-radius: 10px;
+  margin: 10px 10px 14px 14px;
+  background-color: #ffffff33;
+}
+
+.team-name {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.team-url {
+  height: 90px;
+}
